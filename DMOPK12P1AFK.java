@@ -5,7 +5,7 @@ for y in range (0, 5):
     
     stringz = input()
     
-    #idk how to use regex in python
+#regex can be used
     stringz = stringz.replace('a', 'F@ls!')
     stringz = stringz.replace('v', 'or')
     stringz = stringz.replace('~', 'not ')
