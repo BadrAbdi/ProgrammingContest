@@ -1,6 +1,6 @@
 /* Question asks to create a number calculator that int/long cant handle (big numbers)
-the use of Bigdecimal and Biginteger was dissallowed
-I manipulated the string, fast input was needed so I used a scanner class from online
+the use of Bigdecimal and Biginteger was not allowed
+I manipulated the string, fast input was needed so I used a scanner class from online www.dmoj.ca
 */
 import java.util.*;
 import java.nio.charset.StandardCharsets;
